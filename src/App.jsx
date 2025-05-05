@@ -2,6 +2,8 @@ import React from 'react'
 import Navbar from './components/Navbar'
 import LandingPage from './components/LandingPage'
 import Marquee from './components/Marquee'
+import About from './components/About'
+import Play from './components/Play'
 
 function App() {
 
@@ -10,6 +12,8 @@ function App() {
       <Navbar />
       <LandingPage />
       <Marquee />
+      <About />
+      <Play />
     </div>
   )
 }
