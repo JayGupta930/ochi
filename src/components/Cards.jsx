@@ -21,7 +21,7 @@ function Cards() {
             RATING 5.0 IN CLUTCH
           </button>
         </div>
-        <div className="relative card w-1/2 h-full bg-[#0f1111] rounded-2xl flex items-center justify-center">
+        <div className="relative card w-1/2 h-full bg-[#292727a5] rounded-2xl flex items-center justify-center">
           <img src="https://ochi.design/wp-content/uploads/2022/04/logo003.png" />
             <button className="absolute px-5 py-1 border-2 left-10 bottom-10 rounded-full">
                 BUSINESS BOOTCAMP ALUMINI 
