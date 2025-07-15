@@ -5,6 +5,9 @@
 
 A visually-rich, high-fidelity clone of the [Ochi.Design](https://ochi.design/) website, crafted using modern frontend tools React, Tailwind CSS, Framer Motion, and Locomotive Scroll. This clone replicates smooth transitions, scroll-based animations, and an elegant layout inspired by the original site.
 
+[![Live Demo](https://img.shields.io/badge/🌐-Live%20Demo-1e90ff?style=for-the-badge&labelColor=black)](https://designochi.web.app/)
+
+
 ---
 
 ## ✨ Features
